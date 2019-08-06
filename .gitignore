@@ -1,1 +1,7 @@
 /.metadata/
+.mvn
+.settings
+.classpath
+.gitignore
+.project
+/target
