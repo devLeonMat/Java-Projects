@@ -4,4 +4,4 @@
 .classpath
 .gitignore
 .project
-/target
+*.class
